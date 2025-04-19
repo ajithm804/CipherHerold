@@ -1,6 +1,4 @@
-## Projects Section for your Resume
-
-### Project Title: Cipher Herold - Image Steganography Application
+Cipher Herold - Image Steganography Application
 
 **Description:**
 Developed a Python-based desktop application that enables secure communication through image steganography. The application allows users to hide sensitive text messages within PNG and JPG images without visible alteration, providing an additional layer of privacy protection.
